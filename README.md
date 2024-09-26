@@ -47,4 +47,4 @@ This project implements the **Merge Sort** algorithm in **MIPS assembly language
 ---
 
 ### How To Run The Code
-Use Mars environment for editting and running the code, Run 
+Use Mars environment for editting and running the code, Run run.sh to test the code.
