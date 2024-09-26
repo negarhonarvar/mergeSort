@@ -46,5 +46,5 @@ This project implements the **Merge Sort** algorithm in **MIPS assembly language
 
 ---
 
-### Conclusion
-This project demonstrates how to implement the classic merge sort algorithm in MIPS assembly language. It highlights key aspects of low-level programming, such as memory management, stack handling, and recursive function calls, providing an in-depth understanding of how sorting algorithms work at the assembly level.
+### How To Run The Code
+Use Mars environment for editting and running the code, Run 
